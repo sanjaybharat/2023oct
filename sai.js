@@ -1,1 +1,1 @@
-console.log ("ghghjh")
+console.log ("test")

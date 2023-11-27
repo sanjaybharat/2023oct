@@ -1,0 +1,281 @@
+/* @media screen and (min-width:500px){
+    body{
+        background-color: aqua;
+    } 
+} */
+
+
+/* @media screen and (min-width: 480px) {
+    body{width: 200px; float: left;}
+    #main {margin-left: 216px;}
+  } */
+
+
+
+.ropdwond{
+    border: 5px solid brown ;
+    background-color: brown;
+    color: aliceblue;
+    display:flex;
+    width: 1200px;
+    height:30px;
+    top: 10px;
+    position:fixed;
+   
+    
+}
+nav{
+    background-color: rgb(118, 15, 15);
+    border-radius: 10px ;
+    width: 600px;
+    text-align: center;
+    
+}
+.a-conaitenar{
+    position: relative;
+    left: 360px;
+    border: 2px solid rgb(223, 211, 211);
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    color: black;
+    background-color: aliceblue;
+    border-radius: 5px;
+
+}
+.a-2{position: relative;
+    left: 380px;
+    border: 2px solid rgb(223, 211, 211);
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    color: black;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+.para{
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    top: 39px;
+    height: 30px;
+    width: 800px;
+    background-color: rgba(227, 237, 242, 0.757);
+    left: 190px;
+    margin: 10px;
+
+}
+.text-2{
+    z-index: -1;
+    position: absolute;
+    top: 79px;
+    border: 1px solid rgb(50, 41, 41);
+    left: 200px;
+    height: 500px;
+    width: 800px;
+   overflow: scroll;
+    
+    
+}
+.text-3{
+    margin: 10px;
+    color: red;
+}
+.text-4{
+    margin: 10px;
+}
+.drop{
+    border: 1px solid black;
+    height: 40px;
+    width: 800px;
+    position: absolute;
+    top: 590px;
+    left: 200px;
+    background-color: brown;
+    z-index: -1;
+    /* position:fixed; */
+}
+
+.drop-1{
+    position: absolute;
+    background-color: rgb(119, 10, 10);
+    border-radius: 5px ;
+    margin: 10px;
+    z-index: -1;
+}
+.personal{
+    position: absolute;
+    top: 640px;
+    border: 1px solid rgb(50, 41, 41);
+    left: 200px;
+    height: 800px;
+    width: 800px;
+    z-index: -1;
+
+}
+.personal-2{
+    border: 1px solid rgb(58, 49, 49);
+    height: 40px;
+    width: 800px;
+    position: absolute;
+    background-color: lightblue;
+    
+}
+label{
+    margin: 5px;
+    font-size: 13px;
+}
+.input1{
+    width: 220px;
+    margin: 10px;
+    height: 20px;
+    font-size: 10px;
+    position: relative;
+    top: -25px;
+}
+
+.input2{
+    width: 220px;
+    height: 20px;
+    margin: 40px;
+    font-size: 10px;
+    position: relative;
+    top: -25px;
+}
+
+.input3{
+    position: relative;
+    width: 220px;
+    height: 20px;
+    margin: 0px;
+    font-size: 10px;
+    top: -25px;
+}
+
+.table{
+    border-style: dashed;
+    position: absolute;
+    top: 120px;
+    height: 50px;
+    width: 795px;
+    font-size:13px;
+    background-color: aqua;
+}
+.label-1{
+    color: rgb(242, 7, 7);
+}
+.date{
+    position: absolute;
+    left: 380px;
+    width: 200px;
+}
+
+.table1{
+    border-style: dashed;
+    position: absolute;
+    top: 220px;
+    height: 70px;
+    width: 300px;
+    font-size:13px;
+    left:380px ;
+    background-color: aqua;
+}
+.label-2{
+    color: rgb(242, 7, 7);}
+
+    .table2{
+        border-style: dashed;
+        position: absolute;
+        top: 300px;
+        height: 50px;
+        width: 795px;
+        font-size:13px;
+        background-color: aqua;
+    }
+    .label-3{
+        color: rgb(242, 7, 7);}
+
+        .Gender{
+
+            position: absolute;
+           top: 380px;
+
+        }
+        .label-g{
+            margin: 10px;
+        }
+    select{
+        width: 230px;
+        height: 25px;
+        text-align: center;
+        background-color: rgb(126, 117, 117);
+        margin: 10px;
+    }
+    .mobile1{
+        position:relative;
+    
+        left: 140px;
+    }
+    .mobile-1{
+        width: 230px;
+        height: 20px;
+    }
+    .mobile2{
+        position:relative;
+        left: 200px
+       
+     }
+     .mobile-2{
+        position: relative;
+        left: 10px;
+        width: 230px;
+        height: 20px;
+    }
+    .mobile-a{
+        margin: 10px;
+    }
+    .email{
+        margin: 15px;
+    }    
+.mobile-a1{
+        width: 230px;
+        height: 20px;
+        margin: 8px;
+
+}
+.email1{
+    width: 230px;
+    height: 20px;
+    
+}
+.email-c1{
+        width: 230px;
+        height: 20px;
+        margin: 8px;
+}
+.m-conaitenar{
+    margin: 10px;
+}
+.n-conaitenar{
+    position: relative;
+    left: 80px;
+}
+.m-conaitenar-1{
+   left: 10px;
+    width: 230px;
+    height: 20px;
+    position: relative;
+}
+.n-conaitenar-1{
+    left:265px;
+    width: 235px;
+    height: 20px;
+    position: relative;
+
+}
+
+.Center-1{
+    margin: 10px;
+}
+
+

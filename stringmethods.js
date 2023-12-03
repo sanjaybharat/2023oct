@@ -1,7 +1,7 @@
-let test = " bharat sahane    ";
+let test= "bharat sahane";
 console.log(test.length);
 
-let text ="i like mango";
+let text1 ="i like mango";
 console.log(text1.silce(1,6)); // start indcluding end ind: exclusive
 
 console.log (text1.slice(1));

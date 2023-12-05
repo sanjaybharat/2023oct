@@ -1,4 +1,4 @@
-// Data types 1) primitive
+//( Data types 1) primitive
 // the primitive date types ; single value holder --- in java script include number 
 // number
 //string 
@@ -6,7 +6,7 @@
 // undefined 
 // null
 // symbol 
-// data types 2) non primitive 
+//( data types 2) non primitive 
 // object
  
 
